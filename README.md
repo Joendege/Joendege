@@ -17,6 +17,11 @@ I am optimistic about Data, Business and Sales analysis to aid in making data dr
 4. **Power BI**
 5. **Python**
 
+### Examples of Work
+<img src= 'https://github.com/Joendege/Joendege/blob/main/car_sales.PNG' width= 600 />
+
+<img src= https://github.com/Joendege/Joendege/blob/main/pizza_sales_1.PNG width= 600 />
+
 - 🔭 I’m currently working on My own Data Analysis Projects 
 - 🌱 I’m currently learning DAX Functions in Power BI, Tableau Calculated fields 
 - 📫 How to reach me: ndegejoseph66@gmail.com 
