@@ -10,7 +10,7 @@
 
 I am optimistic about Data, Business and Sales analysis to aid in making data driven decisions in various organizations. I enjoy learning Excel, SQL using different Relationship Database Management Systems(RDMS) which are MySQL, MS SQL Server and Postgre SQL, visualisation tools which are Tableau and Power BI and also Python Programming Language.
 
-### Skills and Exprience
+### Skills and Experience
 1. **Excel**
 2. **SQL**
 3. **Tableau**
