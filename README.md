@@ -1,7 +1,7 @@
 ![A Dynamic Data, Business and Sales Analyst](https://github.com/Joendege/Joendege/blob/main/da_projects.jpg)
 
 
-### Hi there 👋, Joseph Ndege
+# Joseph Ndege
 
 ---
 #### A Dynamic Data, Business and Sales Analyst
@@ -10,7 +10,12 @@
 
 I am optimistic about Data, Business and Sales analysis to aid in making data driven decisions in various organizations. I enjoy learning Excel, SQL using different Relationship Database Management Systems(RDMS) which are MySQL, MS SQL Server and Postgre SQL, visualisation tools which are Tableau and Power BI and also Python Programming Language.
 
-Skills: **EXCEL / SQL / POWER BI / TABLEAU / PYTHON**
+### Skills and Exprience
+1. **Excel**
+2. **SQL**
+3. **Tableau**
+4. **Power BI**
+5. **Python**
 
 - 🔭 I’m currently working on My own Data Analysis Projects 
 - 🌱 I’m currently learning DAX Functions in Power BI, Tableau Calculated fields 
