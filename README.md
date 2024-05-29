@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Dynamic Data, Business and Sales Analyst](https://github.com/Joendege/Joendege/blob/main/da_projects.jpg)
 
 
 ### Hi there 👋, Joseph Ndege
